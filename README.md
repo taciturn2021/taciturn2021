@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **[Web Development]**
+- 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: **[taciturn2021@icloud.com]**
 
 ## GitHub Stats

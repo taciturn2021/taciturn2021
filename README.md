@@ -15,7 +15,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taciturn2021&layout=compact&theme=radical)
 
-## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/taciturn2021)
 

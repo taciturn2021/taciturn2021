@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Backend Development in GO and microservices architecture.
+- 🌱 I’m currently learning modern frontend and backend frameworks and architectures.
 - 📫 How to reach me: **[taciturn2021@gmail.com]**
 
 ## GitHub Stats
